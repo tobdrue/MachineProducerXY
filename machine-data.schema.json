@@ -1,0 +1,7 @@
+{
+    "Counter": int,
+    "Id": Guid,
+    "InputPower": double,
+    "Temperature": double,
+    "Timestamp": DateTimeOffset
+}

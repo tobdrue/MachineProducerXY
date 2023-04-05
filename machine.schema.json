@@ -1,0 +1,6 @@
+{
+	"Id": Guid,
+	"Name":string,
+	"Version":string
+	"Location":string
+}
