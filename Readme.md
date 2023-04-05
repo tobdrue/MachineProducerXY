@@ -32,7 +32,3 @@ For this coding challenge we want to imagine that we are at sprint 1 of our proj
 * focus on the parts where you feel the strongest
 * you can use the test data (or modify it how you need it) as fake inputs at any level
 * create a pull request
-
-
-
-status, error
